@@ -6,15 +6,15 @@ body {
 
 .masthead-heading,
 .masthead-intro {
-  text-align: center;
+    text-align: center;
 }
 
 .masthead {
-  padding: 6em 0;
-  background-image: url("images/about.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  border-top: solid 1em #ffc400;
+    padding: 6em 0;
+    background-image: url("images/about.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: solid 1em #ffc400;
 }
 
 .masthead-intro {
@@ -25,7 +25,7 @@ body {
 }
 
 .masthead-heading {
-    color: #F1C863;
+    color: #f1c863;
     margin-top: -0.2em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
     font-weight: bold;
